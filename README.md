@@ -72,6 +72,8 @@ jupyter notebook
 ### Option 2: Zero-setup (recommended)
 
 👉 Run in Colab / Binder
+https://colab.research.google.com/github/mzed86/Google-Valuation-Model-29-Dec-25/blob/main/Google_Valuation_Model.ipynb
+
 
 
 ### Why this exists
